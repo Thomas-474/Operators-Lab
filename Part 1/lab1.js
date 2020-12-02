@@ -13,7 +13,6 @@ document.write("<br>");
 
 var secondsInAYear = secondsInADay * daysInAYear;
 document.write("The number of seconds in a year are " + secondsInAYear);
-document.write("<br>");
+document.write("<br><br>");
 
-document.write("<br>")
 document.write("Created by Thomas");
